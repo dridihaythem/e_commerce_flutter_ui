@@ -1,6 +1,6 @@
 # Preview
 
-<img width="300" height="600" src="./screenshots/preview.gif">
+<img width="400" height="800" src="./screenshots/preview.gif">
 
 # Screenshots
 
