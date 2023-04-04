@@ -1,13 +1,25 @@
 # Preview
 
-![image info](./screenshots/preview.gif)
+<center>
+<img width="300" height="600" src="./screenshots/preview.gif">
+</center>
 
 # Screenshots
 
-![image info](./screenshots/1.png)
+<style>
+.image-block {
+  display: flex;
+}
+</style>
 
-![image info](./screenshots/2.png)
+<center>
+<div class="image-block">
+<img width="300" height="600" src="./screenshots/1.png">
+<img width="300" height="600" src="./screenshots/2.png">
+</div>
 
-![image info](./screenshots/3.png)
-
-![image info](./screenshots/4.png)
+<div class="image-block">
+<img width="300" height="600" src="./screenshots/3.png">
+<img width="300" height="600" src="./screenshots/4.png">
+</div>
+<center>
